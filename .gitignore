@@ -1,0 +1,4 @@
+tmp/
+data/
+container*
+.DS_Store
